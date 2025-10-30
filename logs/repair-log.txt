@@ -1,0 +1,19 @@
+🕒 Repair started: Thu Oct 30 15:39:45 UTC 2025
+✅ Remote found: https://github.com/PrasetyoBayu07/dsrt-artweb
+📦 Installing dependencies...
+�� Created folder: src
+�� Created folder: assets
+�� Created folder: dist
+�� Created folder: public
+🧩 Created missing file: vite.config.js
+🧩 Created missing file: .eslintrc.json
+🧩 Created missing file: .prettierrc
+🧩 Created missing file: .gitignore
+🧩 Created missing file: src/main.js
+🧩 Created missing file: src/engine.js
+🧩 Created missing file: assets/style.css
+🗄️  Backing up current files to backup/2025-10-30_15-39 ...
+✅ Backup completed.
+🧠 Scanning and repairing source files...
+🔍 Running ESLint...
+🏗️ Building project...
